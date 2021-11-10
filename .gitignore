@@ -273,3 +273,5 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,python,visualstudiocode,flask
 
 migrations
+pybo/static/bootstrap-4.6.1-dist.zip
+pybo/static/bootstrap-4.6.1-dist
